@@ -1,0 +1,6 @@
+cx_Freeze==7.2.5
+deep-translator==1.11.4
+fake-useragent==1.5.1
+selenium==4.26.1
+webdriver-manager==4.0.2
+urllib3==2.2.3
